@@ -93,7 +93,7 @@ Se realizo web scrapping (lemon_scraper.py) con selenium al centro de ayuda de l
 ### Pasos
 1. Clonar repositorio:
 
-        git clone https://github.com/tu-usuario/lemon.git
+        git clone https://github.com/EAPG1990/lemon.git
         cd lemon
 2. Instalar dependencias:
 
