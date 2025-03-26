@@ -1,0 +1,114 @@
+ID del cliente,Asunto,Cuerpo del mensaje
+1,Problema con transferencia cripto,"Estimado equipo de soporte,
+
+Estoy teniendo dificultades para transferir 0.5 Bitcoin desde mi billetera Lemon a una dirección externa. La transacción fue iniciada hace 48 horas pero sigue apareciendo como 'pendiente' en mi historial. 
+
+He verificado que la dirección de destino es correcta (bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq) y que tengo saldo suficiente. Ya intenté cancelar la transacción y volver a enviarla pero el problema persiste.
+
+¿Podrían verificar qué está causando este retraso? Necesito que los fondos lleguen antes del viernes para completar una compra importante.
+
+Adjunto capturas de pantalla del estado de la transacción.
+
+Quedo atento a su respuesta,
+Carlos Mendoza"
+
+2,Consulta sobre mi CVU,"Buenos días equipo de Lemon,
+
+Estoy intentando configurar un débito automático en mi cuenta de servicios pero el sistema me solicita mi Clave Virtual Uniforme (CVU). 
+
+He revisado toda la aplicación móvil y el sitio web pero no logro encontrar este dato. Mi CVU es 1234567890123456789012 según recuerdo, pero quisiera confirmarlo ya que no quiero errores en los débitos automáticos.
+
+Adicionalmente, me gustaría saber:
+1. ¿Puedo cambiar mi CVU si lo considero necesario?
+2. ¿Hay algún riesgo de seguridad al compartir este número con terceros?
+3. ¿Existe alternativa al CVU para configurar débitos automáticos?
+
+Agradeceré su pronta respuesta,
+Laura González"
+
+3,Tarjeta bloqueada,"Hola soporte técnico,
+
+Mi tarjeta Visa Lemon (terminada en 4512) fue bloqueada esta mañana cuando intentaba hacer una compra en Mercado Libre. 
+
+El error que aparece es 'Tarjeta no autorizada'. Lo extraño es que ayer hice varias compras sin problemas en establecimientos físicos y online. 
+
+¿Podrían indicarme:
+- El motivo exacto del bloqueo?
+- Si debo solicitar una nueva tarjeta o solo reactivarla?
+- Tiempo estimado para la solución?
+
+Es urgente porque necesito la tarjeta para pagar el alquiler mañana.
+
+Saludos,
+Roberto Sánchez"
+
+4,Consulta sobre Lemon Earn,"Querido equipo de Lemon,
+
+He estado leyendo sobre su producto Lemon Earn pero tengo varias dudas antes de invertir:
+
+1. ¿Cuál es el rendimiento anual promedio actual?
+2. ¿Qué criptomonedas son admitidas en Earn?
+3. ¿Existe algún período mínimo de bloqueo?
+4. ¿Cómo se calculan y pagan los intereses?
+5. ¿Qué garantías ofrece Lemon sobre estos fondos?
+
+Adicionalmente, me interesaría conocer experiencias de otros usuarios con montos similares a los que pienso invertir (aproximadamente 0.5 BTC y 5 ETH).
+
+¿Podrían enviarme información más detallada o programar una llamada para explicarme el producto?
+
+Gracias por su atención,
+Ana Valdivia"
+
+5,Problema con depósito bancario,"Atención al cliente,
+
+El día de ayer realicé un depósito bancario por $150.000 desde mi cuenta en el Banco Nacional pero hasta ahora no se refleja en mi billetera Lemon. 
+
+Los datos de la transferencia son:
+- Banco origen: Banco Nacional
+- CBU origen: 1234567890123456789012
+- CVU destino: 9876543210987654321098
+- Fecha/hora: 15/03/2023 14:30
+- Número de transacción: ABX-458792
+
+Ya contacté a mi banco y me confirmaron que la transferencia fue exitosa. ¿Podrían verificar en sus sistemas por qué no aparece el dinero?
+
+Necesito urgentemente esos fondos para aprovechar una oportunidad de compra en el mercado actual.
+
+Adjunto comprobante de la transferencia.
+
+Saludos cordiales,
+Diego Fernández"
+
+6,Consulta general,"Hola equipo Lemon,
+
+Primero que nada felicitarlos por su excelente plataforma. Soy usuario desde hace 6 meses y en general muy satisfecho.
+
+Quisiera hacer algunas consultas generales:
+1. ¿Tienen planes de lanzar una tarjeta de crédito en el futuro cercano?
+2. ¿Existe algún programa de referidos con beneficios adicionales?
+3. ¿Piensan integrar más exchanges para compra/venta directa?
+4. ¿Hay planes para agregar más métodos de retiro de fondos?
+
+También me gustaría sugerir algunas mejoras a la interfaz móvil que podría comentarles si tienen disponibilidad.
+
+Quedo atento a sus respuestas,
+Javier Romero"
+
+7,Problema con retiro de fondos,"Urgente: Retiro no procesado
+
+Solicité un retiro de $75.000 a mi cuenta bancaria hace 72 horas y el estado sigue figurando como 'en proceso'. 
+
+Normalmente las transferencias se completan en 24 horas máximo. Ya verifiqué que los datos bancarios están correctos:
+- Banco: Banco Provincial
+- CBU: 9876543210987654321098
+- Tipo de cuenta: Cuenta corriente en pesos
+
+¿Podrían indicarme:
+1. Razón del retraso
+2. Tiempo estimado de solución
+3. Si debo iniciar algún reclamo formal
+
+Es dinero que necesito para una emergencia médica familiar.
+
+Agradezco su inmediata atención,
+María López"

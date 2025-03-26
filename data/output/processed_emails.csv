@@ -1,0 +1,39 @@
+ID del cliente,Asunto,Categoría,Resumen,CVU
+1,Problema con transferencia cripto,Consultas de Crypto,"Estimado equipo de soporte,
+
+Estoy teniendo dificultades para transferir 0.5 Bitcoin desde mi billetera Lemon a una dirección externa. La transacción fue iniciada hace 48 horas pero sigue apareciendo como 'pendiente' en mi historial. He verificado que la dirección de destino es correcta (bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq) y que tengo saldo suficiente.",
+2,Consulta sobre mi CVU,Consultas de Banking,"Buenos días equipo de Lemon,
+
+Estoy intentando configurar un débito automático en mi cuenta de servicios pero el sistema me solicita mi Clave Virtual Uniforme (CVU). Mi CVU es 1234567890123456789012 según recuerdo, pero quisiera confirmarlo ya que no quiero errores en los débitos automáticos. ¿Existe alternativa al CVU para configurar débitos automáticos?",1234567890123456789012
+3,Tarjeta bloqueada,Consultas de Tarjeta,"Hola soporte técnico,
+
+Mi tarjeta Visa Lemon (terminada en 4512) fue bloqueada esta mañana cuando intentaba hacer una compra en Mercado Libre. - Si debo solicitar una nueva tarjeta o solo reactivarla? Lo extraño es que ayer hice varias compras sin problemas en establecimientos físicos y online.",
+4,Consulta sobre Lemon Earn,Consultas de Crypto,"Adicionalmente, me interesaría conocer experiencias de otros usuarios con montos similares a los que pienso invertir (aproximadamente 0.5 BTC y 5 ETH). Querido equipo de Lemon,
+
+He estado leyendo sobre su producto Lemon Earn pero tengo varias dudas antes de invertir:
+
+1. ¿Podrían enviarme información más detallada o programar una llamada para explicarme el producto?",
+5,Problema con depósito bancario,Consultas de Banking,"Los datos de la transferencia son:
+- Banco origen: Banco Nacional
+- CBU origen: 1234567890123456789012
+- CVU destino: 9876543210987654321098
+- Fecha/hora: 15/03/2023 14:30
+- Número de transacción: ABX-458792
+
+Ya contacté a mi banco y me confirmaron que la transferencia fue exitosa. Atención al cliente,
+
+El día de ayer realicé un depósito bancario por $150.000 desde mi cuenta en el Banco Nacional pero hasta ahora no se refleja en mi billetera Lemon. Necesito urgentemente esos fondos para aprovechar una oportunidad de compra en el mercado actual.",1234567890123456789012
+6,Consulta general,Consultas de Banking,"También me gustaría sugerir algunas mejoras a la interfaz móvil que podría comentarles si tienen disponibilidad. ¿Tienen planes de lanzar una tarjeta de crédito en el futuro cercano? Hola equipo Lemon,
+
+Primero que nada felicitarlos por su excelente plataforma.",
+7,Problema con retiro de fondos,Consultas de Banking,"Ya verifiqué que los datos bancarios están correctos:
+- Banco: Banco Provincial
+- CBU: 9876543210987654321098
+- Tipo de cuenta: Cuenta corriente en pesos
+
+¿Podrían indicarme:
+1. Urgente: Retiro no procesado
+
+Solicité un retiro de $75.000 a mi cuenta bancaria hace 72 horas y el estado sigue figurando como 'en proceso'. Si debo iniciar algún reclamo formal
+
+Es dinero que necesito para una emergencia médica familiar.",9876543210987654321098
